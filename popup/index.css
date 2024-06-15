@@ -11,6 +11,13 @@
     left: 33%;
     transform: scale(.2);
     visibility: hidden;
+    & button{
+        color: #fff;
+        font-weight: 600;
+    }
+    & button:hover{
+        color: #fff;
+    }
 }
 
 .open{
